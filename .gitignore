@@ -114,3 +114,5 @@ dmypy.json
 .pyre/
 
 battery_test.py/
+battery.ico
+battery_test.py
